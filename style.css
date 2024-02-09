@@ -35,6 +35,9 @@ body{
     margin: 25px auto;
     border: 15px groove deepskyblue;
 }
+.imgInfo{
+    text-align: center;
+}
 .img img{
     width: 100%;
 }
