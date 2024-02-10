@@ -101,11 +101,11 @@ h2 {
 	margin-bottom: 15px;
 }
 .right h4 {
-    margin-bottom: 0px; /* Adjust the margin-bottom to reduce the space */
+    margin-bottom: 0px;
 }
 
 .right ul {
-    margin-top: 0px; /* Remove top margin to reduce space */
+    margin-top: 0px; 
 }
 .right p {
 	line-height: 2.9;
